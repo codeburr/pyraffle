@@ -1,2 +1,2 @@
 # pyraffle
-A simple raffle console based on python.
+A simple raffle console app python based.
