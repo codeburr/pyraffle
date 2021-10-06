@@ -9,4 +9,4 @@ In order to use it, you have to:
 
 3- Execute "python <raffle.py filepath>" in the console.
 
-The result will be shown in the console and in the "log.txt" file as well.
+The result will be shown in the console and in a "log.txt" file that will be created automatically.
